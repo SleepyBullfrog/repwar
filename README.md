@@ -7,7 +7,7 @@ L'idée derrière ce projet consiste à créer une commande sous Bash permettant
 - faire combattre l'ensemble des champions présent dans le sous-répertoire actuellement ouvert au sein d'une arène définie par l'utilisateur
 - remonter récursivement les champions gagnants de chaque sous-répertoire vers le répertoire originel
 
-Pour résumer, cette commande permet d'effectuer un tournoi entre plusieurs champions séparés entre différents sous-répertoires et de déterminer lequel est le plus efficace au fil et à mesure de chaque round en déplacant le gagnant d'un round vers le répertoire parent jusqu'à atteindre le combat final du tournoi.
+Pour résumer, cette commande permet d'effectuer un tournoi entre plusieurs champions séparés entre différents sous-répertoires et de déterminer lequel est le plus efficace au fil et à mesure de chaque round en déplacant le gagnant d'un round vers le répertoire parent jusqu'à atteindre la fin du tournoi
 
 Ce projet est actuellement en cours de production
 
